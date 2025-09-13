@@ -201,7 +201,7 @@ pip freeze > requirements.txt
 ## 10. Submission
 
 * **GitHub Repository:** [https://github.com/slate299/frameworks\_Assignment](https://github.com/slate299/frameworks_Assignment)
-* Include all files **except the large CSVs**, which users download from Kaggle.
+* Includes all files **except the large CSVs**, which users download from Kaggle.
 
 ---
 
